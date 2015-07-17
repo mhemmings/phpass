@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/apokalyptik/phpass"
+	"github.com/mhemmings/phpass"
 )
 
 var pw = ""
